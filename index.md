@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Which CT Logs Are.Online
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: This is a site that tracks the validity periods (start-end) of various RFC9362 and CT-static Certificate Transparency (CT) logs.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Which CT Logs Are.Online
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+This is a site that tracks the validity periods (start-end) of various RFC9362 and CT-static Certificate Transparency (CT) logs.
