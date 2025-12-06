@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Which CT Logs Are Online?'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
