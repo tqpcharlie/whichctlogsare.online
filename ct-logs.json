@@ -1,0 +1,106 @@
+{
+
+    "Nimbus 2025": {
+        "name": "Nimbus 2025",
+        "type": "production",
+        "operator": "cloudflare",
+        "state": "usable",
+        "start_inclusive": 1735689600,
+        "end_exclusive": 1767225599,
+        "url": "https://ct.cloudflare.com/logs/nimbus2025/"
+    },
+
+    "Argon 2025H2": {
+        "name": "Argon 2025H2",
+        "type": "production",
+        "operator": "google",
+        "state": "usable",
+        "start_inclusive": 1751328000,
+        "end_exclusive": 1767225599,
+        "url": "https://ct.googleapis.com/logs/us1/argon2025h2/"
+    },
+
+    "Xenon 2025H2": {
+        "name": "Xenon 2025H2",
+        "type": "production",
+        "operator": "google",
+        "state": "usable",
+        "start_inclusive": 1751328000,
+        "end_exclusive": 1767225599,
+        "url": "https://ct.googleapis.com/logs/eu1/xenon2025h2/"
+    },
+
+    "Mammoth 2025H2": {
+        "name": "Mammoth 2025H2",
+        "type": "production",
+        "operator": "sectigo",
+        "state": "readonly",
+        "start_inclusive": 1751328000,
+        "end_exclusive": 1767225599,
+        "url": "https://mammoth2025h2.ct.sectigo.com/"
+    },
+
+    "Sabre 2025H2": {
+        "name": "Sabre 2025H2",
+        "type": "production",
+        "operator": "sectigo",
+        "state": "readonly",
+        "start_inclusive": 1751328000,
+        "end_exclusive":1767225599,
+        "url": "https://sabre2025h2.ct.sectigo.com/"
+    },
+
+    "Log 2025A": {
+        "name": "Log 2025A",
+        "type": "production",
+        "operator": "trustasia",
+        "state": "usable",
+        "start_inclusive":1735689600,
+        "end_exclusive":1767225599,
+        "url": "https://ct2025-a.trustasia.com/log2025a"
+    },
+
+    "Log 2025B": {
+        "name": "Log 2025B",
+        "type": "production",
+        "operator": "trustasia",
+        "state": "usable",
+        "start_inclusive":1735689600,
+        "end_exclusive":1767225599,
+        "url": "https://ct2025-b.trustasia.com/log2025b"
+    },
+
+    "Oak2025H2": {
+        "name": "Oak 2025H2",
+        "type": "production",
+        "operator": "lets_encrypt",
+        "state": "readonly",
+        "start_inclusive": 1750377600,
+        "end_exclusive": 1768867200,
+        "url": "https://oak.ct.letsencrypt.org/2025h2"
+    },
+
+    "Elephant 2025H2": {
+        "name": "Elephant 2025H2",
+        "type": "production",
+        "operator":"sectigo",
+        "state": "usable",
+        "start_inclusive":1751328000,
+        "end_exclusive":1767225599,
+        "url": "https://elephant2025h2.ct.sectigo.com/"
+    },
+
+    "Tiger 2025H2": {
+        "name": "Tiger 2025H2",
+        "type": "production",
+        "operator":"sectigo",
+        "state":"usable",
+        "start_inclusive":1751328000,
+        "end_exclusive":1767225599,
+        "url": "https://tiger2025h2.ct.sectigo.com/"
+    }
+
+
+
+
+}
