@@ -1,6 +1,1 @@
-# Readme
-
-
-# Licensing
-
-All files located within the `_data/json` directory of this project are licensed under the terms of the Apache License 2.0 (as found in the LICENSES folder) and is **Copyright 2025 Charlotte Wilson**, while all other content in this project is licensed under the MIT License (as found in the LICENSES folder) and is **Copyright (c) Robert Austin - rob@zerostatic.io - github.com/zerostaticthemes**.
+# WhichCTLogsAre.online
