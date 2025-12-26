@@ -14,26 +14,17 @@ home:
   limit_services: 6
 
 collections:
-  services:
-    output: true
-    sort_by: weight
-  team:
+  logs:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "logs"
     values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
-
+      layout: "logs"
 sass:
-  style: compressed # possible values: nested expanded compact compressed
+  style: compact # possible values: nested expanded compact compressed
 
 plugins:
   - jekyll-environment-variables
@@ -49,3 +40,5 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - COPYING.md
+  - COPYING
