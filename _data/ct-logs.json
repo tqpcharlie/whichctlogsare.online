@@ -98,6 +98,56 @@
         "start_inclusive":1751328000,
         "end_exclusive":1767225599,
         "url": "https://tiger2025h2.ct.sectigo.com/"
+    },
+
+    "Tuscolo 2025h2": {
+        "name": "Tuscolo 2025h2",
+        "type": "production",
+        "operator": "geomys",
+        "state": "usable",
+        "start_inclusive":1751328000,
+        "end_exclusive":1767225599,
+        "url": "https://tuscolo2025h2.sunlight.geomys.org/"
+    },
+
+    "Tuscolo 2026h1": {
+        "name": "Tuscolo 2026h1",
+        "type": "production",
+        "operator": "geomys",
+        "state":"usable",
+        "start_inclusive": 1767225600,
+        "end_exclusive": 1782864000,
+        "url": "https://tuscolo2026h1.sunlight.geomys.org/"
+    },
+
+    "Tuscolo 2026h2": {
+        "name": "Tuscolo 2026h2",
+        "type": "production",
+        "operator": "geomys",
+        "state": "usable",
+        "start_inclusive": 1782864000,
+        "end_exclusive": 1798761600,
+        "url": "https://tuscolo2026h2.sunlight.geomys.org/"
+    },
+
+    "Elephant 2026H1": {
+        "name": "Elephant 2026H1",
+        "type": "production",
+        "operator": "sectigo",
+        "state": "usable",
+        "start_inclusive":1767225600,
+        "end_exclusive":1782864000,
+        "url": "https://elephant2026h1.ct.sectigo.com/"
+    },
+
+    "Elephant 2026H2": {
+        "name": "Elephant 2026H2",
+        "type": "production",
+        "operator": "sectigo",
+        "state": "usable",
+        "start_inclusive":1782864000,
+        "end_exclusive":1798761600,
+        "url": "https://elephant2026h2.ct.sectigo.com/"
     }
 
 
