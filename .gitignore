@@ -3,6 +3,7 @@ node_modules
 npm-debug.log
 
 # Jekyll
+_site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
@@ -18,4 +19,3 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 .idea
-public/
