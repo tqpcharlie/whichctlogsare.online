@@ -5,7 +5,6 @@ description: This is a site that tracks the validity periods (start-end) of vari
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: false
 ---
 
 # Which CT Logs Are.Online
